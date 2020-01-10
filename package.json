@@ -1,0 +1,21 @@
+{
+  "name": "shaped",
+  "version": "0.1.0",
+  "description": "Library to draw basic charts based on text input",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/@hapi/lab/bin/lab"
+  },
+  "author": "Ben Lanning <blanning@all-mode.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@hapi/code": "^8.0.1",
+    "@hapi/eslint-config-hapi": "^13.0.2",
+    "@hapi/eslint-plugin-hapi": "^4.3.5",
+    "@hapi/hapi": "^19.0.2",
+    "@hapi/lab": "^22.0.3",
+    "babel-eslint": "^10.0.3",
+    "codecov": "^3.6.1",
+    "sinon": "^8.0.4"
+  }
+}
